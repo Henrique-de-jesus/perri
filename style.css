@@ -1,4 +1,14 @@
-.aba{
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-size: 120%;
+}
+
+li{
+    margin: 20px;
+    color: brown;
+}.aba{
     display: flex;
     justify-content: space-between;
     align-items: center;
