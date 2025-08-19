@@ -1,0 +1,31 @@
+.aba{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+    background-color: #c4170c;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 355px;
+}
+.g1{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+} 
+h2{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    padding: 10px;
+}
+.caixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
